@@ -1,0 +1,51 @@
+
+
+ul#sliding-navigation
+{
+	list-style: none;
+	font-size: 10pt;
+	margin: 0 0;
+	padding: 0;
+}
+
+ul#sliding-navigation li.sliding-element h3,
+ul#sliding-navigation li.sliding-element a
+{
+	display: block;
+	width: 100px;
+	padding: 5px 18px;
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+
+
+ul#sliding-navigation li.sliding-element a
+{
+	color: #999;
+	background:#222 url(images/tab_bg.jpg) repeat-y;
+	border: 1px solid gray;
+	text-decoration: none;
+}
+
+ul#sliding-navigation li.sliding-element a:hover { color: #eabe42; }
+
+#page-wrap {   position: relative;
+
+ }
+#main { float: right; }
+#sidebar { 
+width: 190px; 
+position: fixed; 
+top:130px;
+
+}
+
+
+
+
+
+
+
+
+

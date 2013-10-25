@@ -1,0 +1,224 @@
+
+/* home */
+
+#contentDiv { 
+    height:380px;
+
+    background:url(images/bckgr.jpg) -100px 0 no-repeat;
+    border:black 2pt solid;
+    border-radius:5px;
+    margin-bottom:2em;
+    
+}
+
+#videoplayer{
+margin:20px;
+width:420px;
+height:300px;
+border:2pt black solid;
+}
+/*News-Events*/
+#contentArt1 { 
+border:black 2pt solid;
+display:none;
+background:url(images/bckgr2.jpg) -100px 0 no-repeat;
+border:black 2pt solid;
+    border-radius:5px;
+    margin-bottom:2em;
+    position:relative;
+    left:190px;;
+}
+
+#socialnav{
+width:28%;
+right:-450px;
+top:-322px;
+position:relative;
+}
+
+#socialnav img{
+width:90%;
+}
+
+
+/* Photos */
+#contentArt2 { 
+display:none;
+border:black 2pt solid;
+    border-radius:5px;
+    margin-bottom:2em;
+    position:relative;
+    left:190px;
+}
+#galleryview{
+    width:60%;
+    height:700px;
+}
+
+/* Biography */
+#contentArt3 { 
+display:none;
+height:598px;
+    margin-bottom:2em;
+    position:relative;
+    left:190px;
+
+}
+#contentArt3 img{
+    height:598px;
+    width:610px;
+    border-radius:5px;
+    border:black 2pt solid;
+}
+
+#biovid{
+border: grey 1pt groove;
+height:115px; 
+width:155px;
+position:relative;
+left:-170px;
+top:-604px;
+margin-left:2px;
+
+}
+
+#biovid2{
+border: gray 1pt groove;
+height:115px; 
+width:155px;
+background:black;
+position:relative;
+left:-170px;
+top:-434px;
+}
+
+/* Contact Us */
+#contentArt4 { 
+display:none;
+height:629px;
+
+    border-radius:5px;
+    margin-bottom:2em;
+    position:relative;
+    left:190px;
+}
+
+#booking{
+  
+    border-top:2pt solid black;
+    border-left:2pt solid black; 
+    border-right:2pt solid black;
+    height:140px;
+    
+
+}
+
+
+#booking p{
+    margin:5px;
+    border:black 1pt solid;
+    padding:5px;
+}
+
+
+
+
+
+/* Contact Forum */
+
+div.box {
+width:
+color:white;
+border:black 2pt solid;
+
+
+}
+
+div.box h1 { 
+color:yellow;
+font-size:18px;
+font-family:Trebuchet MS;
+text-transform:uppercase;
+padding:5px 0 5px 5px;
+border-bottom:1px solid #161712;
+border-top:1px solid #161712; 
+}
+
+div.box label {
+width:100%;
+display: block;
+background:#1C1C1C;
+border-top:1px solid #262626;
+border-bottom:1px solid #161712;
+padding:10px 0 10px 0;
+}
+
+div.box label span {
+display: block;
+color:#bbbbbb;
+font-size:12px;
+float:left;
+width:100px;
+text-align:right;
+padding:5px 20px 0 0;
+}
+
+div.box .input_text {
+padding:10px 10px;
+width:50%;
+background:#262626;
+border-bottom: 1px double #171717;
+border-top: 1px double #171717;
+border-left:1px double #333333;
+border-right:1px double #333333;
+color:white;
+}
+
+div.box .message{
+padding:7px 7px;
+width:60%;
+background:#262626;
+border-bottom: 1px double #171717;
+border-top: 1px double #171717;
+border-left:1px double #333333;
+border-right:1px double #333333;
+overflow:hidden;
+height:150px;
+color:white;
+}
+
+div.box .button
+{
+margin-left:10px;
+margin-bottom:10px;
+padding:4px 7px;
+color:#999;
+border:1pt solid gray;
+background-color:#222;
+position: relative;
+top:10px;
+
+width:15%;
+}
+.error{
+    color:red;
+    font-size:12pt;
+}
+div.box input[type="submit"]:hover{
+color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
